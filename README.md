@@ -1,7 +1,7 @@
 # the_Matrix
 A python program for analyzing matrices 
 
-Features:
+#Features:
 
 Size
 
@@ -25,6 +25,9 @@ Condition Number
 
 Series of solutions to assorted linear equations 
 
+# .txt files
 
+This program was tested with the 5 different matrices included in this repository 
+====================================================================
 
 *Note: The orthogonality function may be buggy with certain matrices, will investigate later 
