@@ -27,7 +27,7 @@ Series of solutions to assorted linear equations
 ```
 ## .txt files
 
-This program was tested with the 5 different matrices included in this repository 
+This program was tested with the 5 different matrices, which are included in this repository 
 
 
 *Note: The orthogonality function may be buggy with certain matrices, will investigate later* 
